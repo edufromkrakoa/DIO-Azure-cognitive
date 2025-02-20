@@ -2,7 +2,7 @@
 Atividade do laboratório da DIO no bootcamp Decola Tech 2025, onde exploramos ferramentas de IA. O Azure Cognitive Search (anteriormente conhecido como Azure AI Search) é um serviço de pesquisa em nuvem que permite a indexação de documentos e a extração de significado para fornecer resultados de busca.
 
 
-## Passo a Passo para Configurar a Pesquisa :pencil:
+## Passo a Passo :pencil:
 
 1. **Configuração Inicial:**
    - Crie uma conta na Azure, ou caso já posua faça login;
